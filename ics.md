@@ -2,8 +2,8 @@
 
 # __Contents__
 * [เลขฐาน](#เลขฐาน)
-* [Computer System](#Computer System)
-* [Digital System](#Digital System)
+* [Computer System](#Computer-System)
+* [Digital System](#Digital-System)
 
 # __เลขฐาน__
     เลขฐาน หมายถึง กลุ่มข้อมูลที่มีจำนวนหลัก (Digit) ตามชื่อของเลขฐานนั้น ๆ เช่น เลขฐานสอง เลขฐานแปด เลขฐานสิบหรือเลขฐานสิบหก เป็นต้น
@@ -33,14 +33,14 @@
 
 ![pic3](pic3.png)
 
-# __Computer System__
+# __Computer-System__
 ## ***Analog***
 ระบบนี้มีลักษณะสำคัญคือ ระดับค่าของ Input และ Output จะมีการรับค่า ที่ไม่จำกัด และเป็นแบบ ต่อเนื่อง เช่น ***สายสัญญาณมือถือ สัญญาณวิทยุ***
 
 ## ***Digital***
 ระบบนี้มีลักษณะสำคัญคือ ระดับค่าของ Input และ Output จะมีการรับค่า จำกัด และเป็นแบบ ไม่ต่อเนื่อง เช่น ***VCD/DVD  E-Book***
 
-# __Digital System__
+# __Digital-System__
 1. __ตาราง Truth Table__
 
 ![pic4](pic4.png)
